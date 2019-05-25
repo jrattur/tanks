@@ -11,6 +11,8 @@ public class TankGuns : MonoBehaviour
 
     private int selectedWeapon = 0;
 
+    public Animator barrelAnimator;
+
     // Update is called once per frame
     void Update()
     {
@@ -24,6 +26,7 @@ public class TankGuns : MonoBehaviour
 
         if (Input.GetButtonDown("Fire1")) {
             Instantiate(weapons[selectedWeapon], endOfBarrel.position, endOfBarrel.rotation);
+            barrelAnimator.SetBool("Fire", true);
         }
     }
 }
