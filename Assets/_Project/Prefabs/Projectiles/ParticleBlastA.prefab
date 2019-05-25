@@ -12,9 +12,9 @@ GameObject:
   - component: {fileID: 7131970973226709338}
   - component: {fileID: 7845789719284018392}
   - component: {fileID: 3472224217533799690}
-  - component: {fileID: 4258212165753899060}
-  - component: {fileID: 1614332527991364694}
-  - component: {fileID: 5874981976302233283}
+  - component: {fileID: 1399427204552833951}
+  - component: {fileID: -8721861758405935111}
+  - component: {fileID: -2968149277989443626}
   m_Layer: 0
   m_Name: ParticleBlast
   m_TagString: Untagged
@@ -59,7 +59,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0
+    scalar: 0.025
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -869,7 +869,7 @@ ParticleSystem:
     rateOverTime:
       serializedVersion: 2
       minMaxState: 1
-      scalar: 500
+      scalar: 800
       minScalar: 10
       maxCurve:
         serializedVersion: 2
@@ -986,7 +986,7 @@ ParticleSystem:
         m_Curve:
         - serializedVersion: 3
           time: 0
-          value: 0.5148506
+          value: 0.82178116
           inSlope: 0
           outSlope: 0
           tangentMode: 0
@@ -1307,7 +1307,7 @@ ParticleSystem:
       maxColor: {r: 1, g: 1, b: 1, a: 1}
       maxGradient:
         serializedVersion: 2
-        key0: {r: 0.74509805, g: 0.06476515, b: 0.0117646875, a: 1}
+        key0: {r: 0.3679245, g: 0.3679245, b: 0.3679245, a: 1}
         key1: {r: 0.8396226, g: 0.46197575, b: 0, a: 1}
         key2: {r: 0.6886792, g: 0.6886792, b: 0.6886792, a: 0}
         key3: {r: 0.4716981, g: 0.4716981, b: 0.4716981, a: 0}
@@ -4712,7 +4712,7 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 355c99d5d14a2294fbf8739a4f41809e, type: 2}
+  - {fileID: 10308, guid: 0000000000000000f000000000000000, type: 0}
   - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -4769,9 +4769,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 50
-  muzzleflare: {fileID: 1648257715039285198, guid: 34b4fd9b5308ac8428ac48181930dde0,
-    type: 3}
---- !u!114 &4258212165753899060
+--- !u!114 &1399427204552833951
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4784,9 +4782,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   lifeTime: 2
-  explosion: {fileID: 2899321362373315488, guid: d1c0ac24f7d80b44288e20def9786832,
-    type: 3}
---- !u!54 &1614332527991364694
+--- !u!136 &-8721861758405935111
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1399427204552833950}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.5
+  m_Height: 2.52
+  m_Direction: 1
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!54 &-2968149277989443626
 Rigidbody:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4802,16 +4812,3 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!135 &5874981976302233283
-SphereCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1399427204552833950}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 2
-  m_Center: {x: 0, y: 0, z: 0}
