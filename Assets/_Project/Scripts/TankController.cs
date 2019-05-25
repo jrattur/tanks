@@ -14,9 +14,12 @@ public class TankController : MonoBehaviour
     [SerializeField] private float turretHorizontalSpeed = 2f;
     [SerializeField] private float turretVerticalSpeed = 2f;
     [SerializeField] private float gravityMultiplier = -30f;
+    [SerializeField] private float wheelMotorTorque = 0.66f;
 
     public GameObject wheelObjectsLeft, wheelObjectRight;
     public GameObject turretHorizontal, turretVertical;
+    
+    
 
     private WheelCollider[] wheelsLeft, wheelsRight;
 
@@ -71,7 +74,7 @@ public class TankController : MonoBehaviour
         if (Input.GetAxis("Horizontal") > 0.01)
         {
             foreach (WheelCollider wheel in wheelsLeft) { wheel.motorTorque = torque; }
-            foreach (WheelCollider wheel in wheelsRight) { wheel.motorTorque = 0.66f * -torque; }
+            foreach (WheelCollider wheel in wheelsRight) { wheel.motorTorque = wheelMotorTorque * -torque; }
 
             //rb.AddTorque(Vector3.up * (torque * Input.GetAxis("Horizontal")));
         }
