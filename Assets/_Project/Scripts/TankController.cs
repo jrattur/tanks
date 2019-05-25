@@ -14,8 +14,6 @@ public class TankController : MonoBehaviour
     [SerializeField] private float turretHorizontalSpeed = 2f;
     [SerializeField] private float turretVerticalSpeed = 2f;
 
-    public GameObject test;
-
     public GameObject wheelObjectsLeft, wheelObjectRight;
     public GameObject turretHorizontal, turretVertical;
 
@@ -125,21 +123,5 @@ public class TankController : MonoBehaviour
 
         turretHorizontal.transform.Rotate(new Vector3(0f, Input.GetAxis("Mouse X") * turretHorizontalSpeed));
         turretVertical.transform.Rotate(new Vector3(-Input.GetAxis("Mouse Y") * turretVerticalSpeed, 0f));
-    }
-
-    void OnGUI()
-    {
-        Vector3 point = new Vector3();
-        Event currentEvent = Event.current;
-        Vector2 mousePos = new Vector2();
-
-        // Get the mouse position from Event.
-        // Note that the y position from Event is inverted.
-        mousePos.x = currentEvent.mousePosition.x;
-        mousePos.y = Camera.main.pixelHeight - currentEvent.mousePosition.y;
-
-        //point = Camera.main.ScreenToWorldPoint(new Vector3(mousePos.x, mousePos.y, 50f));
-
-        //test.transform.position = point;
     }
 }
