@@ -22,12 +22,16 @@ public class TankController : MonoBehaviour
 
     [SerializeField] private bool grounded = true;
 
+    private float originalDrag, originalAngularDrag;
+
     // Start is called before the first frame update
     void Start()
     {
         wheelsLeft = wheelObjectsLeft.GetComponentsInChildren<WheelCollider>();
         wheelsRight = wheelObjectRight.GetComponentsInChildren<WheelCollider>();
         rb = GetComponent<Rigidbody>();
+        originalDrag = rb.drag;
+        originalAngularDrag = rb.angularDrag;
     }
     
     private void FixedUpdate()
@@ -97,7 +101,7 @@ public class TankController : MonoBehaviour
             if (rb.velocity.magnitude < topSpeed && grounded)
                 rb.AddForce(throttle);
 
-            if (!grounded) { rb.AddForce(Vector3.up * gravityMultiplier); }
+            if (!grounded) { rb.drag = 0f; rb.angularDrag = 0f; } else { rb.drag = originalDrag; rb.angularDrag = originalAngularDrag; }
 
             //foreach (WheelCollider wheel in transform.GetComponentsInChildren<WheelCollider>())
             //{
