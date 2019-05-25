@@ -5,6 +5,15 @@ using UnityEngine;
 public class Bullet : MonoBehaviour
 {
     public float speed = 1f;
+    public GameObject muzzleflare;
+
+    private void Start()
+    {
+        if (muzzleflare != null)
+        {
+            Instantiate(muzzleflare, transform.position, transform.rotation);
+        }
+    }
 
     private void FixedUpdate()
     {
