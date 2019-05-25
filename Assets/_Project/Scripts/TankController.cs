@@ -13,6 +13,7 @@ public class TankController : MonoBehaviour
     [SerializeField] private float torque = 5f;
     [SerializeField] private float turretHorizontalSpeed = 2f;
     [SerializeField] private float turretVerticalSpeed = 2f;
+    [SerializeField] private float gravityMultiplier = -30f;
 
     public GameObject wheelObjectsLeft, wheelObjectRight;
     public GameObject turretHorizontal, turretVertical;
@@ -93,8 +94,10 @@ public class TankController : MonoBehaviour
                 throttle = throttle / (1 / (topSpeed - rb.velocity.magnitude));
             }
 
-            if (rb.velocity.magnitude < topSpeed)
+            if (rb.velocity.magnitude < topSpeed && grounded)
                 rb.AddForce(throttle);
+
+            if (!grounded) { rb.AddForce(Vector3.up * gravityMultiplier); }
 
             //foreach (WheelCollider wheel in transform.GetComponentsInChildren<WheelCollider>())
             //{

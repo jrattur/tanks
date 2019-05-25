@@ -18,7 +18,7 @@ public class TurretGun : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        Vector3 relative = transform.InverseTransformPoint(player.transform.position);
+        Vector3 relative = transform.InverseTransformPoint(player.transform.position + (player.GetComponent<Rigidbody>().velocity * 0.66f));
         float angle = Mathf.Atan2(relative.x, relative.z) * Mathf.Rad2Deg;
 
         if (angle > 2f) { rb.AddTorque(0f, 5f, 0f); }
