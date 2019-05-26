@@ -22,7 +22,9 @@ public class Wander : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
         float distanceToWaypoint = (waypoints[currentWaypoint].position - transform.position).magnitude;
+
         if (distanceToWaypoint < waypointDistanceInc) {
             currentWaypoint++;
             if (currentWaypoint >= waypoints.Length) { currentWaypoint = 0; }
@@ -40,7 +42,11 @@ public class Wander : MonoBehaviour
 
         //transform.LookAt(Vector3.Lerp(transform.position, waypoints[currentWaypoint].position, Time.deltaTime * 100000));
 
-        transform.position = transform.position + transform.TransformDirection(Vector3.forward * force);
+        //Debug.Log(angle);
+        //if (Mathf.Abs(angle) < 90)
+        //{
+            transform.position = transform.position + transform.TransformDirection(Vector3.forward * force);
+        //}
 
         //GetComponent<Rigidbody>().AddForce(transform.TransformVector(Vector3.forward * force));
 
