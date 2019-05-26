@@ -264,6 +264,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   barrel: {fileID: 1522371144729264711}
+  barrelMin: -26
+  barrelMax: 26
 --- !u!114 &1522371146369371327
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -276,7 +278,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52689b38d5b12a442aefa1c29e014fa4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bullet: {fileID: 5200767577753872047, guid: 4d9fa0bd3b1618849b406dc290c390bb, type: 3}
+  bullet: {fileID: 1399427204552833950, guid: 2878749285d55e9429b8960d8111def9, type: 3}
   endOfBarrel: {fileID: 1522371145731004608}
   shootTime: 0.5
 --- !u!54 &1522371146369371326

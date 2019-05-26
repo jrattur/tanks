@@ -31,7 +31,7 @@ public class TurretGun : MonoBehaviour
 
         float verticalAngle = Mathf.Atan2(relative.y, relative.z) * Mathf.Rad2Deg;
         Mathf.Clamp(verticalAngle, barrelMin, barrelMax);
-        Debug.Log(verticalAngle);
+    //    Debug.Log(verticalAngle);
         barrel.transform.localEulerAngles = new Vector3(
                -verticalAngle,
                barrel.transform.localEulerAngles.y,
