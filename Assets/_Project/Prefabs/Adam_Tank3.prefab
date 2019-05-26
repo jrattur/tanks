@@ -3202,20 +3202,20 @@ MonoBehaviour:
   m_GameObject: {fileID: 5706377761104370940}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e4b8890ab582e5498b06dbbf5f4456b, type: 3}
+  m_Script: {fileID: 11500000, guid: f8c1537d308946e4cab4dd6d4357108b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  throttleForce: 200000
-  slideValue: 10
-  topSpeed: 500
+  throttleForce: 20000
+  slideValue: 0.2
+  topSpeed: 100
   torque: 15000
-  turretHorizontalSpeed: 8
-  turretVerticalSpeed: 8
+  turretHorizontalSpeed: 10
+  turretVerticalSpeed: 10
   torqueSplit: 0.3
   wheelObjectsLeft: {fileID: 5706377761513479877}
   wheelObjectRight: {fileID: 5706377762176196392}
   turretHorizontal: {fileID: 5706377763025327308}
-  turretVertical: {fileID: 1383197303577488797}
+  turretVertical: {fileID: 7625500679698829787}
   grounded: 1
 --- !u!114 &3447858840031049402
 MonoBehaviour:
