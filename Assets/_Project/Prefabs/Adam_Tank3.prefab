@@ -147,6 +147,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 861176466698072657}
+  - component: {fileID: 1752453760}
   m_Layer: 0
   m_Name: Mesh_Empty
   m_TagString: Untagged
@@ -169,6 +170,25 @@ Transform:
   m_Father: {fileID: 1783876188835551645}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+--- !u!95 &1752453760
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 861176466698072670}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: a64d5e5dc6bdf6c429f220e5f2710d0f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &861176466777927580
 GameObject:
   m_ObjectHideFlags: 0
@@ -3034,7 +3054,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &9016225486674766492
 Transform:
   m_ObjectHideFlags: 0
@@ -3042,14 +3062,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3215947338883824404}
-  m_LocalRotation: {x: 0.029404573, y: -0.000000002793967, z: -0.0000000025611364,
-    w: 0.9995676}
-  m_LocalPosition: {x: 0, y: 21.2, z: -52.900105}
+  m_LocalRotation: {x: -0.055472888, y: 0, z: 0, w: 0.99846023}
+  m_LocalPosition: {x: 0, y: 9.2, z: -35.4}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 5507440111054498693}
   m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 3.37, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: -6.36, y: 0, z: 0}
 --- !u!20 &7164537622307802560
 Camera:
   m_ObjectHideFlags: 0
@@ -3469,10 +3488,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   shell: {fileID: 3829587466033079599, guid: e1a80d693e3a8644299285568cdaa0a1, type: 3}
   weapons:
-  - {fileID: 1399427204552833950, guid: 2878749285d55e9429b8960d8111def9, type: 3}
-  - {fileID: 5200767577753872047, guid: 4d9fa0bd3b1618849b406dc290c390bb, type: 3}
+  - {fileID: 8488622764814963335, guid: a43a6795d872e1e43906576152182f03, type: 3}
+  - {fileID: 6283205971934724905, guid: 7302f51728ce83e449980d67658faaaa, type: 3}
+  - {fileID: 4875188499131853266, guid: 185dc3e031794a2439300beb965ad927, type: 3}
   endOfBarrel: {fileID: 5507440111054498693}
-  barrelAnimator: {fileID: 0}
+  barrelAnimator: {fileID: 1752453760}
 --- !u!114 &4954702002249607420
 MonoBehaviour:
   m_ObjectHideFlags: 0
