@@ -3472,7 +3472,7 @@ MonoBehaviour:
   - {fileID: 1399427204552833950, guid: 2878749285d55e9429b8960d8111def9, type: 3}
   - {fileID: 5200767577753872047, guid: 4d9fa0bd3b1618849b406dc290c390bb, type: 3}
   endOfBarrel: {fileID: 5507440111054498693}
-  barrelAnimator: {fileID: 7301440420649789566}
+  barrelAnimator: {fileID: 0}
 --- !u!114 &4954702002249607420
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3899,7 +3899,6 @@ GameObject:
   - component: {fileID: 5836957125442673901}
   - component: {fileID: 3485454849994591485}
   - component: {fileID: 5105333839035689476}
-  - component: {fileID: 7301440420649789566}
   m_Layer: 0
   m_Name: Gun_BarrelMesh
   m_TagString: Untagged
@@ -3966,25 +3965,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!95 &7301440420649789566
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7070857127516136920}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: a64d5e5dc6bdf6c429f220e5f2710d0f, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &8599317929874410445
 GameObject:
   m_ObjectHideFlags: 0
