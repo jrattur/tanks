@@ -1,0 +1,2560 @@
+fileFormatVersion: 2
+guid: e1b9e7d1a6e2a804cb5d101c06d2f2d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4622679191196207819
+    second: Explo1SS_0
+  - first:
+      213: -716192026751468039
+    second: Explo1SS_1
+  - first:
+      213: 915207420137128875
+    second: Explo1SS_2
+  - first:
+      213: 3270161184559933374
+    second: Explo1SS_3
+  - first:
+      213: 4982937962332835528
+    second: Explo1SS_4
+  - first:
+      213: 8894990899290764912
+    second: Explo1SS_5
+  - first:
+      213: -8820375666306999436
+    second: Explo1SS_6
+  - first:
+      213: -4019785936973447952
+    second: Explo1SS_7
+  - first:
+      213: -1817857782513730032
+    second: Explo1SS_8
+  - first:
+      213: 3043186541642622379
+    second: Explo1SS_9
+  - first:
+      213: -8213825681762549551
+    second: Explo1SS_10
+  - first:
+      213: -7357402555851634937
+    second: Explo1SS_11
+  - first:
+      213: 3955807530140402584
+    second: Explo1SS_12
+  - first:
+      213: 66933039622844168
+    second: Explo1SS_13
+  - first:
+      213: 908600030724647635
+    second: Explo1SS_14
+  - first:
+      213: 5301026177308899517
+    second: Explo1SS_15
+  - first:
+      213: -3901505792206313411
+    second: Explo1SS_16
+  - first:
+      213: 9114988240703642969
+    second: Explo1SS_17
+  - first:
+      213: 5809844034169114119
+    second: Explo1SS_18
+  - first:
+      213: -1105251533807445053
+    second: Explo1SS_19
+  - first:
+      213: 1437213644817994909
+    second: Explo1SS_20
+  - first:
+      213: -665399573967417943
+    second: Explo1SS_21
+  - first:
+      213: -4150354726519672142
+    second: Explo1SS_22
+  - first:
+      213: -8868153429730384113
+    second: Explo1SS_23
+  - first:
+      213: -4384048937712382745
+    second: Explo1SS_24
+  - first:
+      213: 1702074280866033280
+    second: Explo1SS_25
+  - first:
+      213: 3773362541215768704
+    second: Explo1SS_26
+  - first:
+      213: 7707750464409055952
+    second: Explo1SS_27
+  - first:
+      213: 61224721697434508
+    second: Explo1SS_28
+  - first:
+      213: 4120714063975299215
+    second: Explo1SS_29
+  - first:
+      213: 6392968250000130161
+    second: Explo1SS_30
+  - first:
+      213: 922069825127911589
+    second: Explo1SS_31
+  - first:
+      213: -3654522766181005025
+    second: Explo1SS_32
+  - first:
+      213: 8148589806259079356
+    second: Explo1SS_33
+  - first:
+      213: 8847500340523871149
+    second: Explo1SS_34
+  - first:
+      213: 923871628434856820
+    second: Explo1SS_35
+  - first:
+      213: -6299591800198235397
+    second: Explo1SS_36
+  - first:
+      213: -4519579117039211032
+    second: Explo1SS_37
+  - first:
+      213: -866358716468608020
+    second: Explo1SS_38
+  - first:
+      213: 4289301962514673567
+    second: Explo1SS_39
+  - first:
+      213: -2881959971745428907
+    second: Explo1SS_40
+  - first:
+      213: 8114499112253943928
+    second: Explo1SS_41
+  - first:
+      213: 368152307471451827
+    second: Explo1SS_42
+  - first:
+      213: -3543389514771030320
+    second: Explo1SS_43
+  - first:
+      213: 2153897522040878650
+    second: Explo1SS_44
+  - first:
+      213: 7475697090695285130
+    second: Explo1SS_45
+  - first:
+      213: -2263075850764210886
+    second: Explo1SS_46
+  - first:
+      213: 8332037606771303235
+    second: Explo1SS_47
+  - first:
+      213: -6346583572411019532
+    second: Explo1SS_48
+  - first:
+      213: -1733611933722869325
+    second: Explo1SS_49
+  - first:
+      213: -6943938837036279674
+    second: Explo1SS_50
+  - first:
+      213: -3743211419162306318
+    second: Explo1SS_51
+  - first:
+      213: -7466481807936008931
+    second: Explo1SS_52
+  - first:
+      213: -960475264932585325
+    second: Explo1SS_53
+  - first:
+      213: -2545096269503840842
+    second: Explo1SS_54
+  - first:
+      213: 7746665031203428127
+    second: Explo1SS_55
+  - first:
+      213: 7352658740624334962
+    second: Explo1SS_56
+  - first:
+      213: -2574695143759462088
+    second: Explo1SS_57
+  - first:
+      213: 2900285446330232819
+    second: Explo1SS_58
+  - first:
+      213: 3385829928450896414
+    second: Explo1SS_59
+  - first:
+      213: -5070302749698343814
+    second: Explo1SS_60
+  - first:
+      213: -8515789558999166203
+    second: Explo1SS_61
+  - first:
+      213: -7752791957796048096
+    second: Explo1SS_62
+  - first:
+      213: -811827295030346516
+    second: Explo1SS_63
+  - first:
+      213: 5816733985015592454
+    second: Explo1SS_64
+  - first:
+      213: -3224531819688104536
+    second: Explo1SS_65
+  - first:
+      213: -4021815367602085668
+    second: Explo1SS_66
+  - first:
+      213: 7778834361326037002
+    second: Explo1SS_67
+  - first:
+      213: 4553633914208076127
+    second: Explo1SS_68
+  - first:
+      213: -6378954026270329492
+    second: Explo1SS_69
+  - first:
+      213: -7331111893518323390
+    second: Explo1SS_70
+  - first:
+      213: -932151492039329544
+    second: Explo1SS_71
+  - first:
+      213: -5217689763492941630
+    second: Explo1SS_72
+  - first:
+      213: -5771207594627600083
+    second: Explo1SS_73
+  - first:
+      213: -1452835725013690957
+    second: Explo1SS_74
+  - first:
+      213: 7760787143820506816
+    second: Explo1SS_75
+  - first:
+      213: 7739136779852090547
+    second: Explo1SS_76
+  - first:
+      213: -8537944939138415854
+    second: Explo1SS_77
+  - first:
+      213: -7591585692613699414
+    second: Explo1SS_78
+  - first:
+      213: 8679898987470979946
+    second: Explo1SS_79
+  - first:
+      213: -2131779347616616733
+    second: Explo1SS_80
+  - first:
+      213: 4886280176631411997
+    second: Explo1SS_81
+  - first:
+      213: -2594506474781280650
+    second: Explo1SS_82
+  - first:
+      213: 3379527023834583258
+    second: Explo1SS_83
+  - first:
+      213: -3272901824199685318
+    second: Explo1SS_84
+  - first:
+      213: -303001150298755103
+    second: Explo1SS_85
+  - first:
+      213: -7092254620370877318
+    second: Explo1SS_86
+  - first:
+      213: 7741833940912730595
+    second: Explo1SS_87
+  - first:
+      213: 4882715457047938846
+    second: Explo1SS_88
+  - first:
+      213: 553462388206535997
+    second: Explo1SS_89
+  - first:
+      213: 7012027177566027255
+    second: Explo1SS_90
+  - first:
+      213: 971384338150331909
+    second: Explo1SS_91
+  - first:
+      213: -1982511468730737436
+    second: Explo1SS_92
+  - first:
+      213: -4234004654029074789
+    second: Explo1SS_93
+  - first:
+      213: -8362211634180699918
+    second: Explo1SS_94
+  - first:
+      213: 2412155170110506750
+    second: Explo1SS_95
+  - first:
+      213: 4460124878429536268
+    second: Explo1SS_96
+  - first:
+      213: 4003442680464720538
+    second: Explo1SS_97
+  - first:
+      213: -7112286620669556513
+    second: Explo1SS_98
+  - first:
+      213: 5837099270540219767
+    second: Explo1SS_99
+  - first:
+      213: 5314124930930699792
+    second: Explo1SS_100
+  - first:
+      213: -8851877247502421911
+    second: Explo1SS_101
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Explo1SS_0
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 8115
+        width: 67
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0a0844bc9bfdb4e9d3b2358fe8b8c3
+      internalID: -4622679191196207819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_1
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 8111
+        width: 113
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a23344cca20254fbd07b1b2c677c07
+      internalID: -716192026751468039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_2
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 8106
+        width: 152
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e3a11d8327dd94e9b812d2a28fe96c
+      internalID: 915207420137128875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_3
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 8102
+        width: 211
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180263dd09eb769408584d7db0515a95
+      internalID: 3270161184559933374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_4
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 8098
+        width: 245
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aad4145640fb2a4aa97e9d64a8c9515
+      internalID: 4982937962332835528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 7554
+        width: 283
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9952f9dd083ff02439979922933cc8b4
+      internalID: 8894990899290764912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_6
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 7554
+        width: 299
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad74ddc7b0fa73940b85d188c2a809d2
+      internalID: -8820375666306999436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_7
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 7558
+        width: 312
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6ff591eb5575a47a2406c0c47ae435
+      internalID: -4019785936973447952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_8
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 7558
+        width: 329
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460e863a6459f274688076c31184f591
+      internalID: -1817857782513730032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_9
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 7558
+        width: 333
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1febf92359a3545b344ed315da8b2e
+      internalID: 3043186541642622379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_10
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 7018
+        width: 346
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bbc8b5ba8ddd745a917aff14171d34
+      internalID: -8213825681762549551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 7022
+        width: 359
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e739b697a5e714e4aac3f8f4a0d95e29
+      internalID: -7357402555851634937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_12
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 7022
+        width: 367
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96794ae84da677a4cbc28fb600a062b7
+      internalID: 3955807530140402584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_13
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 7022
+        width: 380
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e416476f72f11c34ea726d5244c25ce0
+      internalID: 66933039622844168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_14
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 7022
+        width: 385
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea1bce83b3d439459db56f36eaa3e99
+      internalID: 908600030724647635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 6482
+        width: 397
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249f20771c9f3fa4095739fa0ba14f02
+      internalID: 5301026177308899517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_16
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 6489
+        width: 401
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f9338df402c884b9e880d11c826fdb
+      internalID: -3901505792206313411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_17
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 6491
+        width: 405
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3812564c2bf2540aad393da52c2cbc
+      internalID: 9114988240703642969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_18
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 6495
+        width: 413
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03e72fa85b4a3148815082beb4d874f
+      internalID: 5809844034169114119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_19
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 6495
+        width: 422
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341d59c868f53d2419e074843eeebb46
+      internalID: -1105251533807445053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 5959
+        width: 427
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eaf303ece422e74faa9b6ab98661bfd
+      internalID: 1437213644817994909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_21
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 5960
+        width: 434
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663cb143f5d01d7499fcb4e19ddbac99
+      internalID: -665399573967417943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_22
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 5960
+        width: 434
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee1c2a3559ae954ead4f0e0d77d105b
+      internalID: -4150354726519672142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_23
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 5963
+        width: 439
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d720476fd059de84c9cc05490789a1b5
+      internalID: -8868153429730384113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_24
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 5964
+        width: 443
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef1d5f544eb66b41b2f740ed39771b5
+      internalID: -4384048937712382745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_25
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 5427
+        width: 447
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5aa1faedc0b7f43ae6aab4dd660368
+      internalID: 1702074280866033280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_26
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 5427
+        width: 451
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1093e43a110f94c9b78d0e27a9f163
+      internalID: 3773362541215768704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_27
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 5428
+        width: 452
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280a71068de607e40a6ac4ccea714b64
+      internalID: 7707750464409055952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_28
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 5444
+        width: 459
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a5fdf7fea1e214b8c77db3259f2f01
+      internalID: 61224721697434508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_29
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 5436
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5431fc6aeb5f79a459383bde244a07ec
+      internalID: 4120714063975299215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_30
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 5449
+        width: 464
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260749bdb7775e64c91abb9a486ec382
+      internalID: 6392968250000130161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4917
+        width: 462
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a9aaf997c6e214597953ae9944883c
+      internalID: 922069825127911589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_32
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4925
+        width: 469
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643e57e4d5b34984c868cb770a107253
+      internalID: -3654522766181005025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_33
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 4934
+        width: 468
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a914d984c47d0f3459e39eb2e1a64568
+      internalID: 8148589806259079356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_34
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 4939
+        width: 465
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae8f8bda5f762a47b2ed258af39bb96
+      internalID: 8847500340523871149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_35
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 4938
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7e8056337e2d94eb771298973f847d
+      internalID: 923871628434856820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_36
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 4939
+        width: 504
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8ca4dc7b3b3de47beed3574a41ee11
+      internalID: -6299591800198235397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4407
+        width: 466
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efcecbb645e97d49971e33311cd90bf
+      internalID: -4519579117039211032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_38
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 4411
+        width: 469
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c95f45f656b1014493fe6711163aaf3
+      internalID: -866358716468608020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_39
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 4419
+        width: 472
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a8093fae955cb42b7ef3e06cb8e93d
+      internalID: 4289301962514673567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_40
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 4423
+        width: 470
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302ecb14eb8d5604d99c6604a41a00a6
+      internalID: -2881959971745428907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_41
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 4508
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcebed8e48d5fe54891b98c565ba3129
+      internalID: 8114499112253943928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_42
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 4428
+        width: 492
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd6ce4a9bdd8ff46be56e43ca5154ab
+      internalID: 368152307471451827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_43
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3976
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61338fe24c0e2c4b9f646bf9e1414a9
+      internalID: -3543389514771030320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_44
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3892
+        width: 460
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc36caf026f51434eaeddb8ac32ecd85
+      internalID: 2153897522040878650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_45
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 3897
+        width: 460
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449e372435e150e44abc440cd8a7415f
+      internalID: 7475697090695285130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_46
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3905
+        width: 460
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ff4a7d3ccce5846b88897daf33a8bd
+      internalID: -2263075850764210886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_47
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 3926
+        width: 470
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556a0e5511e109f4e9af98c8aabfc6c6
+      internalID: 8332037606771303235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_48
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 3930
+        width: 473
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e94572a5fe735748a2d243643353ab0
+      internalID: -6346583572411019532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3395
+        width: 481
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c811c192dbb4e345bf821023fdb63bb
+      internalID: -1733611933722869325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_50
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 3411
+        width: 486
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0245058db295546970b1c90db4a09d
+      internalID: -6943938837036279674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_51
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 3419
+        width: 489
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e556cd3de4338f144bb9575b4f2ee5dd
+      internalID: -3743211419162306318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_52
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 3432
+        width: 493
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed78b30db9e824428ccc448aed9d7e0
+      internalID: -7466481807936008931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_53
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 3441
+        width: 494
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f628944c3530e343ab3bf69a9aa36cb
+      internalID: -960475264932585325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_54
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 3436
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b8a0897ce6bc2429706c151151c02e
+      internalID: -2545096269503840842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_55
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 3402
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef56ce60892335245b9b5ad55aed454b
+      internalID: 7746665031203428127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2909
+        width: 492
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49efebd2f87da3449b1982f551b45cb8
+      internalID: 7352658740624334962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_57
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2922
+        width: 498
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf82d4137c7a9d44ae87153f646212b
+      internalID: -2574695143759462088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_58
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2934
+        width: 498
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3940969125c68fb42956bff6071be201
+      internalID: 2900285446330232819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_59
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 2943
+        width: 485
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b086df3b6e51194e87a8267669b789a
+      internalID: 3385829928450896414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_60
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 2951
+        width: 500
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbca1d40682dcb4a8a713c7c3368148
+      internalID: -5070302749698343814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_61
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2424
+        width: 485
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eead3cf4b616f9044a294aabc4f8e8fd
+      internalID: -8515789558999166203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_62
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 2428
+        width: 481
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a5abcab1512874793270c52fce83d6
+      internalID: -7752791957796048096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_63
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 2428
+        width: 473
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3462046ee18397459a58f7a043cbeda
+      internalID: -811827295030346516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_64
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 2483
+        width: 144
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cee86773d0c5ea48bbd671c21840acb
+      internalID: 5816733985015592454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_65
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 2432
+        width: 325
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1862aad7dae584ab34b7b1c6cccd6f
+      internalID: -3224531819688104536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_66
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 2487
+        width: 152
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fa20c4716d5bd4685693b132a89004
+      internalID: -4021815367602085668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_67
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 2436
+        width: 325
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c5a5158a7179c4ba0e1fdb4f001284
+      internalID: 7778834361326037002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_68
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1901
+        width: 329
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5446dc4f44cabcd4dbd908c93a9409aa
+      internalID: 4553633914208076127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_69
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1905
+        width: 333
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8c5a0e4a6a7ce4bb8b6b69e0eb7b4f
+      internalID: -6378954026270329492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_70
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 2125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fee3ca04cb71044aa325904f7f1e1f
+      internalID: -7331111893518323390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_71
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1909
+        width: 173
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237e9f00dec699e4596136e05c06713e
+      internalID: -932151492039329544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_72
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1914
+        width: 156
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658f95e559e129c4a91638f76e791b3f
+      internalID: -5217689763492941630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_73
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 1918
+        width: 156
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b7bbf47ce332243b4de7c7592fa82e
+      internalID: -5771207594627600083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_74
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 2107
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e410c0b90e66d344889a45f72b9c1921
+      internalID: -1452835725013690957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_75
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1947
+        width: 151
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238e51052fd64db459528581dc15858c
+      internalID: 7760787143820506816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_76
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1951
+        width: 147
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7116fee985986b34da85a169ef8e560b
+      internalID: 7739136779852090547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_77
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1955
+        width: 143
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842d5c1f52996c64082bf405510feffc
+      internalID: -8537944939138415854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_78
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1951
+        width: 122
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4833b12988d93fd47a5548fb203df0a0
+      internalID: -7591585692613699414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_79
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1960
+        width: 139
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd6308b591f3c54d925d621b17b8ce8
+      internalID: 8679898987470979946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_80
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 2010
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9f27943af8ab74481355a03c4e9660
+      internalID: -2131779347616616733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_81
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 1960
+        width: 134
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be745f0bd7f80a418e948ae549170d8
+      internalID: 4886280176631411997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_82
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 2048
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0273dbeb8002fae4a810c5c45de5adc6
+      internalID: -2594506474781280650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_83
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2002
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deeb4c39034817445b3632d60e944dc0
+      internalID: 3379527023834583258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_84
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 2014
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da374515a50435242836753c696a4288
+      internalID: -3272901824199685318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_85
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1960
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748198a80dc618946b834b41cabeeb67
+      internalID: -303001150298755103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_86
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 1985
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280eb8382975b7f4d9adc6e364f3d41b
+      internalID: -7092254620370877318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_87
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 1985
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ead9063d9823a04a9fe6a117ea184b6
+      internalID: 7741833940912730595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_88
+      rect:
+        serializedVersion: 2
+        x: 2391
+        y: 1968
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1403f3192c0f3a54d8b9a11442b3643c
+      internalID: 4882715457047938846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_89
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1386
+        width: 118
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01064b6fcdc30e4ca459e0aabffa748
+      internalID: 553462388206535997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_90
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1609
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67d498345bb4214e811b903d00ecfdc
+      internalID: 7012027177566027255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_91
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 1407
+        width: 105
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2e4ce8cc7c6804bb69b4a2f2d9feb4
+      internalID: 971384338150331909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_92
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1424
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af77a8b88b926e84488d1a4da535b2d7
+      internalID: -1982511468730737436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_93
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1428
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b05b8f407b9c7429b73e44904d887a
+      internalID: -4234004654029074789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_94
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1390
+        width: 113
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c5cc52c6385804fa7d25014bfba77a
+      internalID: -8362211634180699918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_95
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1432
+        width: 88
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e800dde3decacf428d440c947c1c29c
+      internalID: 2412155170110506750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_96
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1394
+        width: 110
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d494bde276c1b4d48a078104878f6854
+      internalID: 4460124878429536268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_97
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1437
+        width: 85
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3843297a001c75a43b3f12387afcfce1
+      internalID: 4003442680464720538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_98
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1403
+        width: 105
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b2cfbbc39079040887ac723e1b44f3
+      internalID: -7112286620669556513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_99
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 1441
+        width: 88
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c066b7a94e9b042a79482a0935df7a
+      internalID: 5837099270540219767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_100
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 909
+        width: 88
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7b03412fc655041aab58b56ba2b7b2
+      internalID: 5314124930930699792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explo1SS_101
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 876
+        width: 93
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2106b044d2bd36744b7c061cfbce42d7
+      internalID: -8851877247502421911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d1d211804adfbe745bf4e7d295cfca9a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
