@@ -24,7 +24,7 @@ public class TurretWaveFire : MonoBehaviour
         rb = GetComponent<Rigidbody>();
         Vector3 relative = transform.InverseTransformPoint(player.transform.position + (player.GetComponent<Rigidbody>().velocity * 0.66f));
         float angle = Mathf.Atan2(relative.x, relative.z) * Mathf.Rad2Deg;
-        transform.localEulerAngles = new Vector3(transform.localEulerAngles.x, angle, transform.localEulerAngles.z);
+        //transform.localEulerAngles = new Vector3(transform.localEulerAngles.x, angle, transform.localEulerAngles.z);
     }
 
     // Update is called once per frame
