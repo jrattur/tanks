@@ -444,10 +444,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52689b38d5b12a442aefa1c29e014fa4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bullet: {fileID: 1399427204552833950, guid: 2878749285d55e9429b8960d8111def9, type: 3}
+  bullet: {fileID: 939703953327615222, guid: bf7244558c1c2fd46b8b2f3ff0dc1450, type: 3}
   endOfBarrel: {fileID: 1208311135936433548}
-  shootTime: 0.2
-  shotSpeed: 1
+  shootTime: 10
+  shotSpeed: 50
 --- !u!1 &1208311135959731926
 GameObject:
   m_ObjectHideFlags: 0
@@ -491,10 +491,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52689b38d5b12a442aefa1c29e014fa4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bullet: {fileID: 1399427204552833950, guid: 2878749285d55e9429b8960d8111def9, type: 3}
+  bullet: {fileID: 939703953327615222, guid: bf7244558c1c2fd46b8b2f3ff0dc1450, type: 3}
   endOfBarrel: {fileID: 1208311135959731927}
-  shootTime: 0.2
-  shotSpeed: 1
+  shootTime: 15
+  shotSpeed: 10
 --- !u!1 &1208311136247918699
 GameObject:
   m_ObjectHideFlags: 0
@@ -538,10 +538,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52689b38d5b12a442aefa1c29e014fa4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bullet: {fileID: 1399427204552833950, guid: 2878749285d55e9429b8960d8111def9, type: 3}
+  bullet: {fileID: 939703953327615222, guid: bf7244558c1c2fd46b8b2f3ff0dc1450, type: 3}
   endOfBarrel: {fileID: 1208311136247918692}
-  shootTime: 0.2
-  shotSpeed: 1
+  shootTime: 15
+  shotSpeed: 10
 --- !u!1 &1208311137182666812
 GameObject:
   m_ObjectHideFlags: 0
@@ -585,10 +585,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52689b38d5b12a442aefa1c29e014fa4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bullet: {fileID: 1399427204552833950, guid: 2878749285d55e9429b8960d8111def9, type: 3}
+  bullet: {fileID: 939703953327615222, guid: bf7244558c1c2fd46b8b2f3ff0dc1450, type: 3}
   endOfBarrel: {fileID: 1208311137182666813}
-  shootTime: 0.2
-  shotSpeed: 1
+  shootTime: 10
+  shotSpeed: 50
 --- !u!1 &1208311137596300122
 GameObject:
   m_ObjectHideFlags: 0
@@ -632,10 +632,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52689b38d5b12a442aefa1c29e014fa4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bullet: {fileID: 1399427204552833950, guid: 2878749285d55e9429b8960d8111def9, type: 3}
+  bullet: {fileID: 939703953327615222, guid: bf7244558c1c2fd46b8b2f3ff0dc1450, type: 3}
   endOfBarrel: {fileID: 1208311137596300123}
-  shootTime: 0.2
-  shotSpeed: 1
+  shootTime: 15
+  shotSpeed: 10
 --- !u!1 &1208311137986043483
 GameObject:
   m_ObjectHideFlags: 0
@@ -679,10 +679,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 52689b38d5b12a442aefa1c29e014fa4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bullet: {fileID: 1399427204552833950, guid: 2878749285d55e9429b8960d8111def9, type: 3}
+  bullet: {fileID: 939703953327615222, guid: bf7244558c1c2fd46b8b2f3ff0dc1450, type: 3}
   endOfBarrel: {fileID: 1208311137986043476}
-  shootTime: 0.2
-  shotSpeed: 1
+  shootTime: 10
+  shotSpeed: 50
 --- !u!1 &1589502207380043616
 GameObject:
   m_ObjectHideFlags: 0
@@ -1548,7 +1548,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   body: {fileID: 4241418211775718425}
-  shootActivateTime: 5
+  shootActivateTime: 20
   rotationSpeed: 1
 --- !u!54 &7198200836339126343
 Rigidbody:
