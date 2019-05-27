@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class TankGuns : MonoBehaviour
 {
-    public GameObject shell;
     public GameObject[] weapons;
 
     public Transform endOfBarrel;

@@ -6,6 +6,7 @@ public class DestroyBullett : MonoBehaviour
 {
     private float birthTime;
     [SerializeField] private float lifeTime = 5f;
+    [SerializeField] private int damage = 10;
 
     public GameObject explosion;
     private void Start()
@@ -20,6 +21,9 @@ public class DestroyBullett : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
+        Damagesble damagesble = collision.gameObject.GetComponent<Damagesble>();
+        if (damagesble != null) { damagesble.TakeDamage(damage); }
+
         if (explosion != null) {
             Instantiate(explosion, collision.GetContact(0).point, transform.rotation);
         }

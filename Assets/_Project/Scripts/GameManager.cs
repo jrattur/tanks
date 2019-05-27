@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -9,6 +10,18 @@ public class GameManager : MonoBehaviour
     public GameObject levelPhaseMessage;
     public static GameObject levelPhaseMessageStatic;
     private static Transform canvas;
+
+    public GameObject gameOverScreen;
+
+    public void gameOver() {
+        gameOverScreen.SetActive(true);
+    }
+
+    public void restart() {
+        SceneManager.LoadScene(1);
+    }
+
+    public void quit() { Application.Quit(); }
 
     public static void NextPhase() {
         levelPhase++;
