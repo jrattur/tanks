@@ -474,7 +474,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 72b8a01abad8d69419e90a3c2fedb938, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1
+  speed: 10
   muzzleflare: {fileID: 0}
 --- !u!114 &6222864765395349896
 MonoBehaviour:

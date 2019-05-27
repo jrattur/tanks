@@ -45,6 +45,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   projectile: {fileID: 4875188499131853266, guid: 185dc3e031794a2439300beb965ad927,
     type: 3}
-  angle: 10
-  threeFiveSevenNiveShot: 3
+  angle: 1.9
+  threeFiveSevenNiveShot: 9
   vert: 1
+  speed: 10

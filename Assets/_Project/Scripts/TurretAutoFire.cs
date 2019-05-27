@@ -8,6 +8,7 @@ public class TurretAutoFire : MonoBehaviour
     public Transform endOfBarrel;
     public float shootTime;
     private float timer = 0f;
+    public float shotSpeed = 1f;
 
     private void Start()
     {
@@ -17,8 +18,10 @@ public class TurretAutoFire : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        bullet.GetComponent<Bullet>().speed = shotSpeed;
+
         timer += Time.deltaTime;
-        if (timer > shootTime + Random.Range(0.1f,3f)) {
+        if (timer > shootTime) {
             timer = 0f;
             Instantiate(bullet, endOfBarrel.transform.position, endOfBarrel.transform.rotation);
         }

@@ -4,14 +4,14 @@ using UnityEngine;
 
 public class PlayerBoostPowerup : MonoBehaviour
 {
-
-    public float boostForce = 1500000f;
+    public Vector3 force = Vector3.forward;
+    public bool destroyOnUse = false;
 
     private void OnTriggerEnter(Collider other)
     {
         if (other.tag == "Player") {
-            other.GetComponent<Rigidbody>().AddForce(other.transform.TransformVector(Vector3.forward) * boostForce, ForceMode.Impulse);
-            Destroy(gameObject);
+            other.GetComponent<Rigidbody>().AddForce(other.transform.TransformVector(force), ForceMode.Impulse);
+            if (destroyOnUse) { Destroy(gameObject); }
         }
     }
 }

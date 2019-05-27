@@ -226,9 +226,11 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1522371146369371321}
-  - component: {fileID: 1522371146369371320}
-  - component: {fileID: 1522371146369371327}
   - component: {fileID: 1522371146369371326}
+  - component: {fileID: 1135045002}
+  - component: {fileID: 1135045003}
+  - component: {fileID: 1135045005}
+  - component: {fileID: 1135045006}
   m_Layer: 0
   m_Name: Turret
   m_TagString: Untagged
@@ -243,7 +245,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1522371146369371323}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -52.5, y: 3.32, z: -38.8}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -251,36 +253,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1522371146369371320
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1522371146369371323}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cad06b1360417624392b7d4ef21860ca, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  barrel: {fileID: 1522371144729264711}
-  barrelMin: -26
-  barrelMax: 26
---- !u!114 &1522371146369371327
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1522371146369371323}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 52689b38d5b12a442aefa1c29e014fa4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  bullet: {fileID: 1399427204552833950, guid: 2878749285d55e9429b8960d8111def9, type: 3}
-  endOfBarrel: {fileID: 1522371145731004608}
-  shootTime: 0.5
 --- !u!54 &1522371146369371326
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -297,3 +269,63 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &1135045002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1522371146369371323}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1e3a27c139629a43b4eb60b45830d16, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  barrel: {fileID: 0}
+  barrelMin: -26
+  barrelMax: 26
+  direction: 0
+  swingAngle: 45
+  speed: 1
+--- !u!114 &1135045003
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1522371146369371323}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52689b38d5b12a442aefa1c29e014fa4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bullet: {fileID: 8488622764814963335, guid: a43a6795d872e1e43906576152182f03, type: 3}
+  endOfBarrel: {fileID: 1522371145266412414}
+  shootTime: 0.2
+  shotSpeed: 1
+--- !u!114 &1135045005
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1522371146369371323}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b619b96a2294604592c81060bea92d6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tripleShotSpeed: 1
+--- !u!114 &1135045006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1522371146369371323}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d197bb084dd38384f985dfb93f756b9f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 1
